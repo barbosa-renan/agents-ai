@@ -1,0 +1,211 @@
+{
+  "identificacao": {
+    "nome": "Renan Barbosa",
+    "idade": 37,
+    "nacionalidade": "Brasileira",
+    "localizacao": "Minas Gerais, Brasil",
+    "email": "renanvinicius.quadros@gmail.com",
+    "telefone": "+55 31 97500-4505",
+    "linkedin": "https://linkedin.com/in/barbosarenan",
+    "idiomas": {
+      "portugues": "nativo",
+      "ingles": "B1 (intermediário, em aprimoramento)"
+    }
+  },
+  "perfil_profissional": {
+    "cargo_atual": "Senior Consultant | Tech Architect",
+    "empresa_atual": "Avanade Brasil",
+    "resumo": "Arquiteto de Soluções e Tech Lead com mais de 13 anos de experiência em desenvolvimento de software, especializado em projetos de alta performance e sistemas distribuídos. Atuação forte em cloud (Azure e AWS), DevOps, arquitetura hexagonal, DDD, Clean Architecture e integração entre sistemas críticos. Lidera equipes multidisciplinares e promove boas práticas como SOLID, Clean Code e Design Patterns.",
+    "principais_conquistas": [
+      "Liderou a migração de um motor antifraude (Feedzai) para a nuvem, com ganhos de desempenho e redução de custos operacionais.",
+      "1º lugar na Avanade Architect Academy 2021.",
+      "Referência técnica em projetos bancários de alta criticidade (FSI)."
+    ],
+    "soft_skills": [
+      "Liderança técnica e mentoria",
+      "Comunicação clara e objetiva",
+      "Autodidata e proativo",
+      "Visão sistêmica e foco em qualidade",
+      "Trabalho colaborativo em squads ágeis"
+    ]
+  },
+  "experiencia_profissional": [
+    {
+      "cargo": "Senior Consultant — Tech Architect",
+      "empresa": "Avanade Brasil",
+      "periodo": "junho/2022 - atual",
+      "responsabilidades": [
+        "Suporte técnico a Product Owners na definição de requisitos e arquitetura.",
+        "Liderança técnica e mentoria de desenvolvedores.",
+        "Defesa de soluções técnicas em fóruns de arquitetura.",
+        "Modernização de sistemas legados e adoção de arquitetura hexagonal.",
+        "Implementação de padrões de observabilidade, qualidade e CI/CD."
+      ],
+      "resultados": [
+        "Aumento de performance em sistemas críticos e padronização de código.",
+        "Melhoria da governança técnica e eficiência das squads."
+      ]
+    },
+    {
+      "cargo": "Consultant — Software Engineering",
+      "empresa": "Avanade Brasil",
+      "periodo": "setembro/2020 - junho/2022",
+      "responsabilidades": [
+        "Criação de frameworks internos.",
+        "Definição técnica de projetos.",
+        "Refatoração de aplicações legadas para ganho de performance.",
+        "Mentoria técnica para desenvolvedores júnior e pleno."
+      ]
+    },
+    {
+      "cargo": "Senior Software Engineer",
+      "empresa": "HTP Solution",
+      "periodo": "maio/2018 - setembro/2020",
+      "responsabilidades": [
+        "Desenvolvimento e manutenção de sistema de rastreamento veicular com mais de 4 milhões de viagens diárias.",
+        "Evolução e padronização de aplicativos móveis com Xamarin.",
+        "Suporte técnico e orientação de equipe de desenvolvimento mobile."
+      ]
+    }
+  ],
+  "formacao": {
+    "mba": {
+      "curso": "MBA em AI Business Leadership",
+      "instituicao": "FIAP - São Paulo",
+      "inicio": "abril/2025",
+      "status": "em andamento",
+      "foco": "inteligência artificial aplicada à estratégia de negócios e liderança técnica"
+    },
+    "graduacao": {
+      "curso": "Bacharelado em Sistemas de Informação",
+      "instituicao": "PUC Minas",
+      "periodo": "fevereiro/2012 - novembro/2019"
+    }
+  },
+  "certificacoes": [
+    {
+      "nome": "AZ-900 — Microsoft Azure Fundamentals",
+      "provedor": "Microsoft / Credly",
+      "link_verificacao": "https://www.credly.com/badges/14a7e92f-ae23-4548-9dde-07523af5b844/public_url"
+    },
+    {
+      "nome": "AI-900 — Microsoft Azure AI Fundamentals",
+      "provedor": "Microsoft / Credly",
+      "link_verificacao": "https://www.credly.com/badges/c461a029-2dfd-447d-8900-5a65cdaf96d1/public_url"
+    },
+    {
+      "nome": "AZ-204 — Microsoft Azure Developer Associate",
+      "provedor": "Microsoft Learn",
+      "link_verificacao": "https://learn.microsoft.com/api/credentials/share/en-us/RenanVinciusQuadrosBarbosa-4301/1671F8E80FEE7DD7?sharingId=32F1D340FBF1A265"
+    },
+    {
+      "nome": "GitHub Actions Certification",
+      "provedor": "GitHub / Credly",
+      "link_verificacao": "https://www.credly.com/badges/cdd6aeb3-7cbb-4487-a568-6658a9bf1bf3/public_url"
+    },
+    {
+      "nome": "GitHub Foundations Certification",
+      "provedor": "GitHub / Credly",
+      "link_verificacao": "https://www.credly.com/badges/9b15f4f8-827f-48ef-b6da-590e82576498/public_url"
+    }
+  ],
+  "tech_stack": {
+    "backend": [
+      ".NET Core",
+      "Java (Spring Boot)"
+    ],
+    "frontend": [
+      "Angular",
+      "Kotlin (Android)"
+    ],
+    "testes": [
+      "XUnit",
+      "JUnit"
+    ],
+    "devops": [
+      "Jenkins",
+      "GitHub Actions",
+      "Bamboo",
+      "Docker",
+      "Kubernetes"
+    ],
+    "mensageria": [
+      "RabbitMQ",
+      "Kafka"
+    ],
+    "bancos_de_dados": [
+      "SQL Server",
+      "MySQL",
+      "CosmosDB",
+      "DynamoDB"
+    ],
+    "cloud": [
+      "Azure",
+      "AWS"
+    ],
+    "gateways_e_infra": [
+      "Kong",
+      "NGINX",
+      "IIS"
+    ],
+    "arquitetura": [
+      "Hexagonal",
+      "DDD",
+      "Clean Architecture",
+      "Microservices"
+    ],
+    "observabilidade": [
+      "SonarQube",
+      "Application Insights",
+      "Prometheus",
+      "Grafana"
+    ],
+    "praticas": [
+      "SOLID",
+      "Clean Code",
+      "Design Patterns"
+    ]
+  },
+  "projetos_pessoais": [
+    {
+      "nome": "Enviro Sentinel",
+      "descricao": "Solução de IA para predição de surto de pragas em florestas de eucalipto. Projeto para o Startup One da FIAP."
+    },
+    {
+      "nome": "Arch12",
+      "descricao": "Canal técnico no YouTube com conteúdo sobre arquitetura de software, DevOps e boas práticas de engenharia."
+    },
+    {
+      "nome": "Lives Técnicas",
+      "descricao": "Participação em lives abordando boas práticas de engenharia, arquitetura de software, IA e DevOps."
+    }
+  ],
+  "rotina_e_esportes": {
+    "modalidade": "Ciclismo (MTB e resistência)",
+    "frequencia_treinos": "Segunda a sábado, com domingos de descanso",
+    "duracao_media_treino": "1h40 a 4h por sessão",
+    "foco": [
+      "Melhoria de capacidade aeróbica e anaeróbica",
+      "Aumento de resistência e eficiência em subidas",
+      "Redução da frequência cardíaca sob alta carga"
+    ],
+    "complementos": [
+      "Musculação para fortalecimento e prevenção de lesões",
+      "Monitoramento de performance via Strava, Tranning Peaks, FTP, TSS e FC"
+    ]
+  },
+  "objetivos_profissionais": {
+    "curto_prazo": [
+      "Consolidar o MBA em IA Business Leadership",
+      "Aprimorar fluência em inglês para atuação internacional"
+    ],
+    "medio_prazo": [
+      "Atuar como Staff Engineer ou Arquiteto Sênior Global",
+      "Participar de projetos de IA aplicada e sistemas distribuídos"
+    ],
+    "longo_prazo": [
+      "Liderar iniciativas globais de arquitetura e inovação",
+      "Continuar contribuindo com a comunidade técnica e open source"
+    ]
+  }
+}
